@@ -5,7 +5,7 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in Cusco, Perú
-* ✉️  You can contact me at [nilsonroalimachi@gamil.com](mailto:nilsonroalimachi@gmail.com)
+* ✉️  You can contact me at [nilsonroalimachi@gmail.com](mailto:nilsonroalimachi@gmail.com)
 
 ### Skills
 
