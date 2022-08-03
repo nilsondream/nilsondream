@@ -8,7 +8,7 @@ Soy un desarrollador web que diseña y desarrolla identidades de marca únicas. 
 
 * 🌍  Con sede en Cusco, Perú.
 * 🖥️  Ver mi portafolio en [Nilson Roa](https://www.nilsonroa.com/)
-* ✉️  Puedes contactar conmigo en [nilsonroalimcahi@gmail.com](mailto:nilsonroalimcahi@gmail.com)
+* ✉️  Puedes contactar conmigo en [nilsonroalimachi@gmail.com](mailto:nilsonroalimachi@gmail.com)
 
 ### Habilidades
 
