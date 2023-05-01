@@ -1,4 +1,4 @@
-Hola 👋 Mi nombre es Nilson Roa
+Hola 👋 Mi nombre es Jhon Nislon
 ===========================
 
 Desarrollador Frontend
@@ -6,9 +6,8 @@ Desarrollador Frontend
 
 Soy un desarrollador web que diseña y desarrolla identidades de marca únicas. Creo experiencias digitales que fusionan el arte, branding, diseño web, prototipos e interacciones. Trato de utilizar todas las herramientas posibles, para alcanzar los máximos resultados.
 
-* 🌍  Con sede en Cusco, Perú.
-* 🖥️  Ver mi portafolio en [Nilson Roa](https://www.nilsonroa.com/)
-* ✉️  Puedes contactar conmigo en [nilsonroalimachi@gmail.com](mailto:nilsonroalimachi@gmail.com)
+* 🖥️  [Nilson Roa](https://www.nilsonroa.com/)
+* ✉️  [nilsonroalimachi@gmail.com](mailto:nilsonroalimachi@gmail.com)
 
 ### Habilidades
 
