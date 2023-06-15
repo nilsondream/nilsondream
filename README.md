@@ -1,7 +1,7 @@
-Hola 👋 mi nombre es Jhon Nislon
+Hi! 👋 I'm Jhon Nilson
 ===========================
 
-Desarrollador Frontend
+Frontend Developer
 -----------------------
 
 Soy un desarrollador web que diseña y desarrolla identidades de marca únicas. Creo experiencias digitales que fusionan el arte, branding, diseño web, prototipos e interacciones. Trato de utilizar todas las herramientas posibles, para alcanzar los máximos resultados.
