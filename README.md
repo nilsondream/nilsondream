@@ -1,4 +1,3 @@
-Web Developer | React Js | Next Js
+Web Developer
 ===========================
 Jhon Nilson
------------------------
